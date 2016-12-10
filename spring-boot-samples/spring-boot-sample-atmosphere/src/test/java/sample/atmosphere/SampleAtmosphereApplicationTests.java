@@ -53,7 +53,7 @@ public class SampleAtmosphereApplicationTests {
 	private static Log logger = LogFactory.getLog(SampleAtmosphereApplicationTests.class);
 
 	@LocalServerPort
-	private int port = 1234;
+	private int port = 8080;
 
 	@Test
 	public void chatEndpoint() throws Exception {

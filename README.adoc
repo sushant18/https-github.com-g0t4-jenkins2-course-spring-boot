@@ -67,7 +67,7 @@ Having trouble with Spring Boot? We'd like to help!
 * Ask a question - we monitor http://stackoverflow.com[stackoverflow.com] for questions
   tagged with http://stackoverflow.com/tags/spring-boot[`spring-boot`].
 * Report bugs with Spring Boot at https://github.com/spring-projects/spring-boot/issues[github.com/spring-projects/spring-boot/issues].
-
+//th
 
 
 == Reporting Issues
